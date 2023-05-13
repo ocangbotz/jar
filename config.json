@@ -1,0 +1,24 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz", 
+    "apikey": "dryanbot"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "autobio": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "FathirBotz",
+    "author": "@ocangstore"
+  },
+  "owner": [
+    "628194067160",
+    "6283136650025",
+    "6281341048197"
+  ],
+  "timezone": "Asia/Makassar",
+  "footer": "Powered by © Fathir Baik"
+}
